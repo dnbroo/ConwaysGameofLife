@@ -8,7 +8,7 @@ import React, {
 import produce from 'immer';
 
 const numRows = 20;
-const numCols = 60;
+const numCols = 20;
 const operations = [
     [0, 1],
     [0, -1],
